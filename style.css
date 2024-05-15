@@ -1,0 +1,77 @@
+.logo{
+    margin-left: 30px;
+    margin-right: 400px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+
+#btn1{
+    padding: 14px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-weight: 500;
+    border-radius: 7px;
+    background-color: rgb(13,109,183);
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#btn2{
+    padding: 14px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: 500;
+    border-radius: 7px;
+    background-color: rgb(141,198,63);
+    margin-right: 10px;
+    border: solid 1px rgb(13,109,183);
+}
+
+
+#home{
+    color: rgb(13,109,183);
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+#about{
+    font-weight: 500;
+    font-size: 1.2rem;
+    padding-left: 40px;
+}
+
+#services{
+    font-weight: 500;
+    font-size: 1.2rem;
+    padding-left: 40px;
+}
+
+#media{
+    font-weight: 500;
+    font-size: 1.2rem;
+    padding-left: 40px;
+}
+
+#contact{
+    font-weight: 500;
+    font-size: 1.2rem;
+    padding-left: 40px;
+}
+
+#bank{
+    font-weight: 500;
+    font-size: 1.2rem;
+    padding-left: 40px;
+}
+
+#other{
+    font-weight: 500;
+    font-size: 1.2rem;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: rgb(13,109,183);
+}
+
+#navbar{
+    border-bottom: solid rgb(231,231,231);
+}
